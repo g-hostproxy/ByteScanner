@@ -43,5 +43,5 @@ A high-performance, cyberpunk-themed Bluetooth Low Energy (BLE) scanner and sign
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/ByteScanner.git](https://github.com/yourusername/ByteScanner.git)
+   git clone [https://github.com/g-hostproxy/ByteScanner.git](https://github.com/g-hostproxy/ByteScanner.git)
    cd ByteScanner
