@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/g-hostproxy/ByteScanner/main/Images/Banner.png" alt="ByteScanner Banner" width="100%">
+</p>
+
 # >_ ByteScanner //
 
 ![iOS 16.0+](https://img.shields.io/badge/iOS-16.0%2B-00FF66?style=flat-square)
